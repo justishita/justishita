@@ -156,7 +156,7 @@ const ishita: Developer = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <p>Open to full-time <strong>SDE</strong> or <strong>AI/ML Engineering</strong> roles at product-based companies.</p>
+  <p>Open to full-time <strong>SDE</strong> or <strong>AI/ML Engineering</strong> roles at product-based companies and fast-growing startups.</p>
   <a href="https://www.linkedin.com/in/ishita-verma-16bb1929a/">
     <img src="https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
