@@ -42,7 +42,7 @@ const ishita: Developer = {
   degree:     "B.Tech CSE — Final Year",
   roles:      ["Full Stack Developer", "SDE", "AI/ML Enthusiast"],
   experience: "1+ year as Web Developer",
-  dsaSolved:  "150+ problems",
+  dsaSolved:  "170+ problems",
   focus:      ["Scalable Systems", "Clean Architecture", "Problem Solving"],
   currentlyExploring: ["Machine Learning", "System Design", "LLMs"],
   openTo:     ["SDE Roles", "AI/ML Engineering Roles"],
@@ -148,7 +148,7 @@ const ishita: Developer = {
 🎓  Final year B.Tech CSE — actively job hunting
 🤖  Diving deeper into ML pipelines and model deployment
 🌐  Building full-stack projects with React + Node.js
-⚔️  Grinding DSA — 150+ problems solved and counting
+⚔️  Grinding DSA — 170+ problems solved and counting
 📐  Studying system design for large-scale applications
 ```
 
