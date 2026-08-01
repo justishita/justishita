@@ -42,7 +42,7 @@ const ishita: Developer = {
   degree:     "B.Tech CSE — Final Year",
   roles:      ["Full Stack Developer", "SDE", "AI/ML Enthusiast"],
   experience: "1+ year as Web Developer",
-  dsaSolved:  "190+ problems",
+  dsaSolved:  "230+ problems",
   focus:      ["Scalable Systems", "Clean Architecture", "Problem Solving"],
   currentlyExploring: ["Machine Learning", "System Design", "LLMs"],
   openTo:     ["SDE Roles", "AI/ML Engineering Roles"],
