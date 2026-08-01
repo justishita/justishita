@@ -148,7 +148,7 @@ const ishita: Developer = {
 🎓  Final year B.Tech CSE — actively job hunting
 🤖  Diving deeper into ML pipelines and model deployment
 🌐  Building full-stack projects with React + Node.js
-⚔️  Grinding DSA — 190+ problems solved and counting
+⚔️  Grinding DSA — 230+ problems solved and counting
 📐  Studying system design for large-scale applications
 ```
 
